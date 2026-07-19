@@ -72,27 +72,27 @@
 <table>
 <tr>
 <td><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,cpp,java,js" /></td>
+<td><img src="https://skillicons.dev/icons?i=python,cpp,java,js" /><br><sub>Python · C++ · Java · JavaScript</sub></td>
 </tr>
 <tr>
 <td><b>ML / AI</b></td>
-<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /></td>
+<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /><br><sub>PyTorch · TensorFlow · OpenCV · Scikit-learn</sub></td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,express" /></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,express" /><br><sub>FastAPI · Node.js · Flask · Express</sub></td>
 </tr>
 <tr>
 <td><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /></td>
+<td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /><br><sub>React · HTML · CSS · Tailwind</sub></td>
 </tr>
 <tr>
 <td><b>Data / Infra</b></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,kubernetes,kafka,aws" /></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,kubernetes,kafka,aws" /><br><sub>MongoDB · MySQL · Kubernetes · Kafka · AWS</sub></td>
 </tr>
 <tr>
 <td><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" /><br><sub>Git · GitHub · Docker · VS Code · Postman</sub></td>
 </tr>
 </table>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravani-hire-151345289)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shravanihire06@gmail.com)
 
 </div>
