@@ -8,12 +8,13 @@
 
 <br>
 
-```
-shravani@github ~ % whoami
-```
-Final-year AI & Data Science engineer from Nashik, India. I like systems that fail in
-interesting ways — because that's where the actual learning is. Every project below
-started as "I don't fully understand this yet."
+<div align="center">
+
+### Final-year AI & Data Science engineer, based in Nashik, India.
+*I like systems that fail in interesting ways — because that's where the actual learning is.*
+*Every project below started as "I don't fully understand this yet."*
+
+</div>
 
 <br>
 
