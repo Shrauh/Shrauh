@@ -1,57 +1,109 @@
 <div align="center">
 
-# Shravani
+```
+   _____ __                             _
+  / ___// /_  _________ __   ______ _  (_)
+  \__ \/ __ \/ ___/ __ `/ | / / __ `/ / /
+ ___/ / / / / /  / /_/ /| |/ / /_/ / / /
+/____/_/ /_/_/   \__,_/ |___/\__,_/_/_/
 
-**I take apart systems until I understand why they broke — then I build the thing that explains it to everyone else.**
+```
 
 </div>
 
 <br>
 
-I work at the intersection of **applied ML, systems thinking, and causal reasoning**. Most of what I build starts with the same question: *what actually caused this, and how do I make that obvious to someone who doesn't have time to dig?*
-
-Right now that question is playing out across a few different problems — distributed systems, computer vision on physical hardware, and real-time recognition. The common thread isn't a tech stack, it's the habit of going one layer deeper than the symptom.
-
-<br>
-
-### How I work
-
-- **Root cause over surface fix** — I'd rather spend an extra day understanding *why* than ship a patch that hides the problem
-- **Build to learn, not to demo** — most of what's below started as "I don't actually understand this yet"
-- **Ship in public, iterate fast** — currently on an 8-day build sprint, one new project shipped at a time, no polishing in private for months
-- **Explain like it matters** — a model or a system that only its builder understands isn't finished
-
-<br>
-
-### Selected work
-
-<table>
-<tr><td width="120"><b>Systems</b></td><td>Designed and led the backend + AI architecture for a multi-service platform combining graph learning, causal inference, and language models to explain <i>why</i> distributed systems fail — not just <i>that</i> they did.</td></tr>
-<tr><td><b>Product</b></td><td><b>InnoSync</b> — full-stack platform (MERN/FastAPI) taken from zero to 50+ pilot users as team lead.</td></tr>
-<tr><td><b>Hardware + CV</b></td><td><b>Idealsense</b> — IoT-driven conveyor sorting system, real-time object classification with OpenCV + MediaPipe on physical hardware.</td></tr>
-<tr><td><b>Real-time ML</b></td><td><b>SensiQ</b> — sign-language recognition system, finalist (Top 6) at PVGCOET Hackathon.</td></tr>
-</table>
-
-<br>
-
-### Right now
-
+```bash
+shravani@github ~ % whoami
 ```
-building  → one new project every ~2 days for the next 8 days
-learning  → whatever the current build forces me to learn
-open to   → collaboration, code review, and getting told I'm wrong
+```
+Final-year engineer. I don't trust a fix until I've found what actually broke.
+Currently mid-sprint: shipping one new build every 2 days, 8 days total.
 ```
 
 <br>
 
-### Stack I reach for
+```bash
+shravani@github ~ % ps aux --sort=-time | head -5
+```
 
-`Python` `PyTorch` `FastAPI` `React` `Kubernetes` `MongoDB` `OpenCV` `AWS`
+| PID | PROCESS | STATUS | NOTE |
+|---|---|---|---|
+| `01` | `8-day-build-sprint` | 🟢 running | new project every ~2 days, live below |
+| `02` | `placement-prep` | 🟢 running | DSA, aptitude, interview loops |
+| `03` | `root-cause-everything` | 🟢 background | habit, not a project |
+| `04` | `sleep` | 🔴 zombie | — |
 
 <br>
+
+```bash
+shravani@github ~ % git log --oneline --graph --author="shravani"
+```
+
+```
+* built a real-time sign-language recognizer  → Top 6, PVGCOET Hackathon
+* shipped a full-stack platform to 50+ users  → led it end to end, MERN + FastAPI
+* wired ML into a physical conveyor system    → OpenCV + MediaPipe, sorting on live hardware
+* traced failures across a distributed system → GNN + causal inference + LLM, still my favorite bug hunt
+* [8 more commits incoming — sprint in progress]
+```
+
+<br>
+
+```bash
+shravani@github ~ % cat philosophy.md
+```
+> Most things labeled "bugs" are actually symptoms. I'd rather spend a day tracing the real cause
+> than an hour patching the thing everyone can see. That habit is the only real throughline
+> across everything in the log above — the stack changes, the question doesn't.
+
+<br>
+
+```bash
+shravani@github ~ % man stack
+```
+
+```
+NAME
+       stack — tools I reach for without thinking
+
+LANGUAGES
+       Python
+
+FRAMEWORKS
+       PyTorch · FastAPI · React
+
+INFRA
+       Kubernetes · Kafka · AWS · MongoDB
+
+VISION
+       OpenCV · MediaPipe
+```
+
+<br>
+
+```bash
+shravani@github ~ % crontab -l
+```
+```
+# 8-day build sprint — updated as I ship
+day 1-2   [x] ██████████ shipped
+day 3-4   [ ] ░░░░░░░░░░ in progress
+day 5-6   [ ] ░░░░░░░░░░ queued
+day 7-8   [ ] ░░░░░░░░░░ queued
+```
+
+<br>
+
+```bash
+shravani@github ~ % contact --open-to collab,code-review,being-told-im-wrong
+```
 
 <div align="center">
 
-<i>This README updates as the 8-day build sprint ships. Check back.</i>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:YOUR-EMAIL@example.com)
+
+<sub>this file rebuilds itself every 2 days — check the crontab above</sub>
 
 </div>
