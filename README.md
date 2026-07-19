@@ -1,98 +1,57 @@
-<h1 align="center">Hey, I'm Shravani 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Final-Year+AI+%26+Data+Science+Student;Building+SYNAPSE+%E2%80%94+AIOps+Root+Cause+Analysis;GNNs+%2B+Causal+Inference+%2B+LLMs;Nashik%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</p>
+# Shravani
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shrauh&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views"/>
-</p>
+**I take apart systems until I understand why they broke — then I build the thing that explains it to everyone else.**
 
----
+</div>
 
-### 🧠 About Me
+<br>
 
-- 🎓 Final-year **B.Tech in AI & Data Science** @ KKWIEER, Nashik — Class of 2027
-- 🔬 Currently building **SYNAPSE** — a microservice root-cause-analysis platform combining **Graph Attention Networks**, the **PC causal inference algorithm**, and **LLM reasoning**, guided by Prof. Ifat Shaikh
-- 💼 6-month internship @ **Humming Byte Technologies** · Industrial exposure @ **ABB India Ltd.**
-- 🌱 Currently deep in placement prep — DSA, system design, and one too many aptitude tests
-- 💬 Ask me about GNNs, AIOps, or why root cause analysis is basically detective work for microservices
-- ⚡ Fun fact: I debug Kubernetes clusters and birth charts with equal curiosity
+I work at the intersection of **applied ML, systems thinking, and causal reasoning**. Most of what I build starts with the same question: *what actually caused this, and how do I make that obvious to someone who doesn't have time to dig?*
 
----
+Right now that question is playing out across a few different problems — distributed systems, computer vision on physical hardware, and real-time recognition. The common thread isn't a tech stack, it's the habit of going one layer deeper than the symptom.
 
-### 🛠️ Currently Building — SYNAPSE
+<br>
 
-> An AIOps platform for automated root cause analysis in microservice architectures.
+### How I work
 
-| Component | What it does |
-|---|---|
-| 🕸️ **GNN (Graph Attention Network)** | Learns service-dependency structure from telemetry |
-| 🔗 **Causal Inference (PC Algorithm)** | Infers true cause-effect chains, not just correlation |
-| 🤖 **LLM Layer** | Turns causal graphs into human-readable RCA explanations |
-| ☸️ **Infra** | Kubernetes · Kafka · LLM-RAG · Evaluation dashboard |
+- **Root cause over surface fix** — I'd rather spend an extra day understanding *why* than ship a patch that hides the problem
+- **Build to learn, not to demo** — most of what's below started as "I don't actually understand this yet"
+- **Ship in public, iterate fast** — currently on an 8-day build sprint, one new project shipped at a time, no polishing in private for months
+- **Explain like it matters** — a model or a system that only its builder understands isn't finished
 
-My role: **AIOps Integration & System Lead** — backend, AI modules, and stitching the whole pipeline together.
+<br>
 
----
+### Selected work
 
-### 🧰 Tech Stack
+<table>
+<tr><td width="120"><b>Systems</b></td><td>Designed and led the backend + AI architecture for a multi-service platform combining graph learning, causal inference, and language models to explain <i>why</i> distributed systems fail — not just <i>that</i> they did.</td></tr>
+<tr><td><b>Product</b></td><td><b>InnoSync</b> — full-stack platform (MERN/FastAPI) taken from zero to 50+ pilot users as team lead.</td></tr>
+<tr><td><b>Hardware + CV</b></td><td><b>Idealsense</b> — IoT-driven conveyor sorting system, real-time object classification with OpenCV + MediaPipe on physical hardware.</td></tr>
+<tr><td><b>Real-time ML</b></td><td><b>SensiQ</b> — sign-language recognition system, finalist (Top 6) at PVGCOET Hackathon.</td></tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<br>
 
----
+### Right now
 
-### 🏆 Highlighted Projects
+```
+building  → one new project every ~2 days for the next 8 days
+learning  → whatever the current build forces me to learn
+open to   → collaboration, code review, and getting told I'm wrong
+```
 
-- **SYNAPSE** — GNN + causal inference + LLM based AIOps root cause analysis (final-year project)
-- **InnoSync** — MERN/FastAPI platform, 50+ pilot users, led as Team Lead
-- **Idealsense** — IoT conveyor-belt sorting system using ML/CV (MediaPipe, OpenCV)
-- **SensiQ** — Real-time sign-language recognition, PVGCOET Hackathon Finalist (Top 6)
+<br>
 
----
+### Stack I reach for
 
-### 📜 Certifications
+`Python` `PyTorch` `FastAPI` `React` `Kubernetes` `MongoDB` `OpenCV` `AWS`
 
-- IBM Data Science Professional Certificate
-- IBM Generative AI
-- Google Data Analytics
-- AWS Cloud Practitioner (self-studied)
+<br>
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+<i>This README updates as the 8-day build sprint ships. Check back.</i>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shrauh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrauh&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrauh&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center"><i>Currently optimizing two graphs at once — one for microservices, one for placements. 📈</i></p>
+</div>
