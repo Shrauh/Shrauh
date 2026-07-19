@@ -1,109 +1,114 @@
 <div align="center">
 
-```
-   _____ __                             _
-  / ___// /_  _________ __   ______ _  (_)
-  \__ \/ __ \/ ___/ __ `/ | / / __ `/ / /
- ___/ / / / / /  / /_/ /| |/ / /_/ / / /
-/____/_/ /_/_/   \__,_/ |___/\__,_/_/_/
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Shravani+Hire;AI+%26+Data+Science+Engineer;Root-Cause+Thinker+%7C+Systems+Builder;Currently%3A+8-Day+Build+Sprint+%F0%9F%9A%80" alt="Typing SVG" />
 
-```
+<img src="https://komarev.com/ghpvc/?username=Shrauh&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views"/>
 
 </div>
 
 <br>
 
-```bash
+```
 shravani@github ~ % whoami
 ```
-```
-Final-year engineer. I don't trust a fix until I've found what actually broke.
-Currently mid-sprint: shipping one new build every 2 days, 8 days total.
-```
+Final-year AI & Data Science engineer from Nashik, India. I like systems that fail in
+interesting ways — because that's where the actual learning is. Every project below
+started as "I don't fully understand this yet."
 
 <br>
 
-```bash
-shravani@github ~ % ps aux --sort=-time | head -5
-```
+### 🎓 Background
 
-| PID | PROCESS | STATUS | NOTE |
-|---|---|---|---|
-| `01` | `8-day-build-sprint` | 🟢 running | new project every ~2 days, live below |
-| `02` | `placement-prep` | 🟢 running | DSA, aptitude, interview loops |
-| `03` | `root-cause-everything` | 🟢 background | habit, not a project |
-| `04` | `sleep` | 🔴 zombie | — |
+| | |
+|---|---|
+| **Education** | B.Tech, AI & Data Science — KKWIEER, Nashik · Class of 2027 · CGPA 8.79 |
+| **Internship** | Humming Byte Technologies — 6 months |
+| **Industry Exposure** | ABB India Ltd. |
+| **Location** | Nashik, Maharashtra, India |
 
 <br>
 
-```bash
-shravani@github ~ % git log --oneline --graph --author="shravani"
-```
+### ⚙️ What I've Built
 
-```
-* built a real-time sign-language recognizer  → Top 6, PVGCOET Hackathon
-* shipped a full-stack platform to 50+ users  → led it end to end, MERN + FastAPI
-* wired ML into a physical conveyor system    → OpenCV + MediaPipe, sorting on live hardware
-* traced failures across a distributed system → GNN + causal inference + LLM, still my favorite bug hunt
-* [8 more commits incoming — sprint in progress]
-```
-
-<br>
-
-```bash
-shravani@github ~ % cat philosophy.md
-```
-> Most things labeled "bugs" are actually symptoms. I'd rather spend a day tracing the real cause
-> than an hour patching the thing everyone can see. That habit is the only real throughline
-> across everything in the log above — the stack changes, the question doesn't.
-
-<br>
-
-```bash
-shravani@github ~ % man stack
-```
-
-```
-NAME
-       stack — tools I reach for without thinking
-
-LANGUAGES
-       Python
-
-FRAMEWORKS
-       PyTorch · FastAPI · React
-
-INFRA
-       Kubernetes · Kafka · AWS · MongoDB
-
-VISION
-       OpenCV · MediaPipe
-```
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">What it is</th>
+<th align="left">Stack</th>
+</tr>
+<tr>
+<td><b>InnoSync</b></td>
+<td>Full-stack platform taken from zero to 50+ pilot users — led the team end to end</td>
+<td><code>MERN</code> <code>FastAPI</code></td>
+</tr>
+<tr>
+<td><b>Idealsense</b></td>
+<td>IoT-driven conveyor sorting system — real-time object classification on physical hardware</td>
+<td><code>OpenCV</code> <code>MediaPipe</code> <code>ML</code></td>
+</tr>
+<tr>
+<td><b>SensiQ</b></td>
+<td>Real-time sign-language recognition system — Top 6 Finalist, PVGCOET Hackathon</td>
+<td><code>Computer Vision</code> <code>ML</code></td>
+</tr>
+<tr>
+<td><b>Root-cause AIOps engine</b></td>
+<td>Final-year system that traces microservice failures back to their actual cause using graph learning + causal inference + LLM-generated explanations</td>
+<td><code>GNN</code> <code>Causal Inference</code> <code>LLM</code> <code>Kubernetes</code> <code>Kafka</code></td>
+</tr>
+</table>
 
 <br>
 
-```bash
-shravani@github ~ % crontab -l
-```
-```
-# 8-day build sprint — updated as I ship
-day 1-2   [x] ██████████ shipped
-day 3-4   [ ] ░░░░░░░░░░ in progress
-day 5-6   [ ] ░░░░░░░░░░ queued
-day 7-8   [ ] ░░░░░░░░░░ queued
-```
+### 📜 Certifications
+
+`IBM Data Science Professional` · `IBM Generative AI` · `Google Data Analytics` · `AWS Cloud Practitioner`
 
 <br>
 
-```bash
-shravani@github ~ % contact --open-to collab,code-review,being-told-im-wrong
-```
+### 🛠️ Tech Stack
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,cpp,java,js" /></td>
+</tr>
+<tr>
+<td><b>ML / AI</b></td>
+<td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /></td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,express" /></td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /></td>
+</tr>
+<tr>
+<td><b>Data / Infra</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,kubernetes,kafka,aws" /></td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" /></td>
+</tr>
+</table>
+
+<br>
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shrauh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrauh&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:YOUR-EMAIL@example.com)
-
-<sub>this file rebuilds itself every 2 days — check the crontab above</sub>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shravanihire06@gmail.com)
 
 </div>
