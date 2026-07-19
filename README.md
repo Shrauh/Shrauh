@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Shravani+Hire;AI+%26+Data+Science+Engineer;Root-Cause+Thinker+%7C+Systems+Builder;Currently%3A+8-Day+Build+Sprint+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Shravani+Hire;AI+%26+Data+Science+Engineer;Root-Cause+Thinker+%7C+Systems+Builder;Currently%3A+30-Day+Build+Sprint+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Shrauh&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views"/>
 
@@ -22,7 +22,7 @@
 
 | | |
 |---|---|
-| **Education** | B.Tech, AI & Data Science — KKWIEER, Nashik · Class of 2027 · CGPA 8.79 |
+| **Education** | B.Tech, AI & Data Science — KKWIEER, Nashik · Class of 2027 · CGPA 8.83 |
 | **Internship** | Humming Byte Technologies — 6 months |
 | **Industry Exposure** | ABB India Ltd. |
 | **Location** | Nashik, Maharashtra, India |
@@ -37,6 +37,10 @@
 <th align="left">What it is</th>
 <th align="left">Stack</th>
 </tr>
+<td><b>Root-cause AIOps engine</b></td>
+<td>Final-year system that traces microservice failures back to their actual cause using graph learning + causal inference + LLM-generated explanations</td>
+<td><code>GNN</code> <code>Causal Inference</code> <code>LLM</code> <code>Kubernetes</code> <code>Kafka</code></td>
+</tr>
 <tr>
 <td><b>InnoSync</b></td>
 <td>Full-stack platform taken from zero to 50+ pilot users — led the team end to end</td>
@@ -49,14 +53,15 @@
 </tr>
 <tr>
 <td><b>SensiQ</b></td>
-<td>Real-time sign-language recognition system — Top 6 Finalist, PVGCOET Hackathon</td>
+<td>Real-time sign-language recognition system — for blind,deaf,dump e-learning platform</td>
 <td><code>Computer Vision</code> <code>ML</code></td>
 </tr>
 <tr>
-<td><b>Root-cause AIOps engine</b></td>
-<td>Final-year system that traces microservice failures back to their actual cause using graph learning + causal inference + LLM-generated explanations</td>
-<td><code>GNN</code> <code>Causal Inference</code> <code>LLM</code> <code>Kubernetes</code> <code>Kafka</code></td>
+<td><b>ClaimIQ</b></td>
+<td>Fraud detection and OCR based claim approval system — Top 6 Finalist, PVGCOET Hackathon</td>
+<td><code>Computer Vision</code> <code>ML</code></td>
 </tr>
+<tr>
 </table>
 
 <br>
