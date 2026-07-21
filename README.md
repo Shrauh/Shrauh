@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Shravani+Hire;AI+%26+Data+Science+Engineer;Root-Cause+Thinker+%7C+Systems+Builder;Currently%3A+30-Day+Build+Sprint+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Shrauh&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views"/>
