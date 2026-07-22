@@ -69,7 +69,7 @@
 
 ### 📜 Certifications
 
-`IBM Data Science Professional` · `IBM Generative AI` · `Google Data Analytics` · `AWS Cloud Practitioner`
+`IBM Data Science Professional` · `IBM Generative AI` · `Google Project Management` · `AWS Cloud Practitioner`
 
 <br>
 
